@@ -28,11 +28,10 @@ This project was developed with the following technologies:
 
 ## 🔧 Applications
 
-- Object-Oriented Programming
-- Classes and Objects
-- Inheritance
-- Encapsulation
-- Polymorphism
+- Data structures
+- Variables and data types
+- Conditionals
+- Loops
 
 ## 💻 Project
 
